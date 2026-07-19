@@ -1,34 +1,94 @@
 <div align="center">
 
-# 👋 Hi, I'm Vlad
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20,24&text=Vlad&fontSize=65&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
 
-### Python • JavaScript • Backend Developer
+<h1>👋 Hi, I'm Vlad</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=8A2BE2&center=true&vCenter=true&width=750&lines=Python+Developer;JavaScript+Developer;React+%7C+Flask+%7C+FastAPI;Backend+Enthusiast;Open+Source+Lover;Always+Learning+🚀"/>
+<h3>Python Developer • JavaScript Developer • Backend Enthusiast</h3>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=8A2BE2&center=true&vCenter=true&width=750&lines=Python+Developer;JavaScript+Developer;Backend+Developer;Flask+%7C+FastAPI;React+Learner;Open+Source+Enthusiast;Always+Building+Cool+Things+🚀"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<br><br>
 
-</div>
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Vladus-CPU&style=for-the-badge&color=blueviolet"/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/github/followers/Vladus-CPU?style=for-the-badge&color=8A2BE2"/>
+
+<img src="https://img.shields.io/github/stars/Vladus-CPU?style=for-the-badge&color=8A2BE2"/>
 
 </div>
+
+---
+
+# 💫 About Me
+
+```yaml
+Name: Vlad
+
+Country: Ukraine 🇺🇦
+
+Role:
+  Backend Developer
+
+Languages:
+  - Python
+  - JavaScript
+
+Currently Learning:
+  - React
+  - FastAPI
+  - Software Architecture
+
+Interests:
+  - Backend
+  - Automation
+  - AI
+  - Open Source
+
+Editor:
+  - VS Code
+
+OS:
+  - Windows 11
+```
+
+---
+
+# 🖥️ Developer Terminal
+
 <div align="center">
 
-> 💡 *"Code. Learn. Improve. Repeat."*
+```text
+Vlad@github
+------------------------------
+OS:         Windows 11
+Editor:     VS Code
+Languages:  Python, JavaScript
+Backend:    Flask, FastAPI
+Database:   MySQL, SQLite
+Learning:   React
+Status:     Building cool things 🚀
+```
 
 </div>
+
+---
+
+# ⚡ Tech Stack
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vladus-CPU&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,js,react,html,css,flask,fastapi,nodejs,mysql,sqlite,git,github,vscode,linux,windows&perline=8"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vladus-CPU&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vladus-CPU&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -41,40 +101,15 @@
 <img width="80%" src="https://streak-stats.demolab.com?user=Vladus-CPU&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
+# 📈 GitHub Activity Graph
+
 <div align="center">
 
-| 🔥 Working On | 📚 Learning | 🎯 Goal |
-|--------------|-------------|----------|
-| Personal Projects | FastAPI | Full Stack Development |
-| Open Source | React | Better Backend Architecture |
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vladus-CPU&theme=tokyo-night&hide_border=true"/>
 
 </div>
-<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,nodejs,flask,fastapi,mysql,sqlite,git,github,docker,linux,vscode&perline=8"/>
-
-</div>
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-<div align="center">
-
-<img width="700" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-</div>
-<div align="center">
-
-<img width="700" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
-
-</div>
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient&customColorList=12,20,24"/>
-
-<img src="https://komarev.com/ghpvc/?username=Vladus-CPU&style=for-the-badge&color=blueviolet"/>
-
-### ⭐ Thanks for visiting!
-
-</div>
+---
