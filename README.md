@@ -1,120 +1,80 @@
 <div align="center">
 
-<h1 align="center">👋 Hi, I'm Vlad</h1>
+# 👋 Hi, I'm Vlad
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=8A2BE2&center=true&vCenter=true&width=700&lines=Python+Developer;JavaScript+Developer;React+%7C+Flask+%7C+FastAPI;Open+Source+Enthusiast;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=8A2BE2&text=Welcome%20to%20my%20GitHub&fontColor=ffffff&fontSize=42&animation=fadeIn" alt="Welcome to my GitHub" />
-</p>
+### Python • JavaScript • Backend Developer
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=8A2BE2&center=true&vCenter=true&width=750&lines=Python+Developer;JavaScript+Developer;React+%7C+Flask+%7C+FastAPI;Backend+Enthusiast;Open+Source+Lover;Always+Learning+🚀"/>
 
-# 🚀 About Me
+<br>
 
-```yaml
-Name: Vlad
-Country: Ukraine 🇺🇦
-Languages:
-  - Python
-  - JavaScript
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-Currently:
-  - Learning new technologies
-  - Building personal projects
-  - Improving backend skills
-```
-
----
-
-# 💻 Tech Stack
-
+</div>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,react,html,css,flask,fastapi,nodejs,mysql,sqlite,git,github,vscode,linux,windows)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</div>
+<div align="center">
+
+> 💡 *"Code. Learn. Improve. Repeat."*
+
+</div>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vladus-CPU&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vladus-CPU&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
-
-# 📊 GitHub Analytics
+<br>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vladus-CPU&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vladus-CPU&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=Vladus-CPU&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-# 🔥 Streak
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Vladus-CPU&theme=tokyonight&hide_border=true"/>
+| 🔥 Working On | 📚 Learning | 🎯 Goal |
+|--------------|-------------|----------|
+| Personal Projects | FastAPI | Full Stack Development |
+| Open Source | React | Better Backend Architecture |
 
 </div>
-
----
-
-# 📈 Activity Graph
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vladus-CPU&theme=tokyo-night&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,nodejs,flask,fastapi,mysql,sqlite,git,github,docker,linux,vscode&perline=8"/>
 
 </div>
-
----
-
-# 🏆 GitHub Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vladus-CPU&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
-
----
-
-# 🐍 Contribution Snake
-
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Vladus-CPU/Vladus-CPU/output/github-contribution-grid-snake-dark.svg)
+<img width="700" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 </div>
-
----
-
-# 🌐 Connect with me
-
 <div align="center">
 
-<a href="https://discord.com/users/YOUR_DISCORD_ID">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<a href="https://steamcommunity.com/id/YOUR_STEAM_ID">
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
-</a>
+<img width="700" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
 </div>
-
----
-
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Vladus-CPU&style=for-the-badge&color=blueviolet)
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient&customColorList=12,20,24"/>
 
-</div>
-
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Vladus-CPU&style=for-the-badge&color=blueviolet"/>
 
 ### ⭐ Thanks for visiting!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=8A2BE2"/>
 
 </div>
