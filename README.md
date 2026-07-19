@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Vlad
+<h1 align="center">👋 Hi, I'm Vlad</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=8A2BE2&center=true&vCenter=true&width=700&lines=Python+Developer;JavaScript+Developer;React+%7C+Flask+%7C+FastAPI;Open+Source+Enthusiast;Always+learning+something+new+%F0%9F%9A%80" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=8A2BE2&text=Welcome%20to%20my%20GitHub&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=8A2BE2&center=true&vCenter=true&width=700&lines=Python+Developer;JavaScript+Developer;React+%7C+Flask+%7C+FastAPI;Open+Source+Enthusiast;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=8A2BE2&text=Welcome%20to%20my%20GitHub&fontColor=ffffff&fontSize=42&animation=fadeIn" alt="Welcome to my GitHub" />
+</p>
 
 ---
 
