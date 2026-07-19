@@ -39,38 +39,7 @@ Currently Learning:
   - FastAPI
   - Software Architecture
 
-Interests:
-  - Backend
-  - Automation
-  - AI
-  - Open Source
-
-Editor:
-  - VS Code
-
-OS:
-  - Windows 11
-```
-
 ---
-
-# 🖥️ Developer Terminal
-
-<div align="center">
-
-```text
-Vlad@github
-------------------------------
-OS:         Windows 11
-Editor:     VS Code
-Languages:  Python, JavaScript
-Backend:    Flask, FastAPI
-Database:   MySQL, SQLite
-Learning:   React
-Status:     Building cool things 🚀
-```
-
-</div>
 
 ---
 
