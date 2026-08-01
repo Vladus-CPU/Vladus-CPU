@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 ✨ Computer Science student from Ukraine
 
