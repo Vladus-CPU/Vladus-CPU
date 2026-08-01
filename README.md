@@ -16,56 +16,17 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-```python
-class Vlad:
+✨ Computer Science student from Ukraine
 
-    name = "Vlad"
+💻 Backend & Full-Stack enthusiast
 
-    location = "Ukraine"
+🐍 Mainly coding with Python
 
-    studying = [
-        "Computer Science",
-        "React",
-        "FastAPI",
-        "Docker"
-    ]
+⚡ Exploring FastAPI, React and Docker
 
-    languages = [
-        "Python",
-        "JavaScript",
-        "SQL"
-    ]
-
-    frameworks = [
-        "FastAPI",
-        "Flask",
-        "React",
-        "Node.js"
-    ]
-
-    databases = [
-        "MySQL",
-        "SQLite"
-    ]
-
-    tools = [
-        "Git",
-        "GitHub",
-        "Docker",
-        "VS Code",
-        "Linux"
-    ]
-
-    currently_building = [
-        "Portfolio",
-        "Automation Projects",
-        "Open Source"
-    ]
-
-    fun_fact = "Coffee turns bugs into features ☕"
-```
+🚀 Building projects, learning every day, and contributing to open source whenever possible.
 
 ---
 
