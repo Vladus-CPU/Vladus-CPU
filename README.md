@@ -2,33 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Vladus-CPU&fontAlign=50&fontAlignY=38&animation=fadeIn&fontSize=65&desc=Computer%20Science%20Student%20•%20Python%20Developer%20•%20Open%20Source&descAlignY=60"/>
 
-# 👋 Hi, I'm Vlad
-
-💻 Computer Science Student
-
-🐍 Python Developer
-
-⚡ FastAPI • React • Docker
-
-🚀 Always learning something new
-
 </div>
-
----
-
-# 🚀 About Me
-
-✨ Computer Science student from Ukraine
-
-💻 Backend & Full-Stack enthusiast
-
-🐍 Mainly coding with Python
-
-⚡ Exploring FastAPI, React and Docker
-
-🚀 Building projects, learning every day, and contributing to open source whenever possible.
-
----
 
 # ⚙️ Tech Stack
 
