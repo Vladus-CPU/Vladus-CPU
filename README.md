@@ -22,7 +22,7 @@
 
 <br><br>
 
-<img width="50%" height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vladus-CPU&theme=tokyonight&utcOffset=3"/>
+<img width="50%" height="200%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vladus-CPU&theme=tokyonight&utcOffset=3"/>
 
 </div>
 
